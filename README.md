@@ -7,4 +7,4 @@ Our primary solution, detailed in the `Quantum_Radar_for_Battleship.ipynb` noteb
 Our simulation over 100 random boards confirmed this, achieving a **perfect infinite E.V. score on 100/100 trials**, demonstrating a provable quantum advantage over a destructive baseline algorithm.
 
 ### Video Presentation & Demo
-[**Click here to watch our video presentation**](https://youtu.be/IM2YvT7Yal4)
+[**Click here to watch video presentation**](https://youtu.be/IM2YvT7Yal4)
